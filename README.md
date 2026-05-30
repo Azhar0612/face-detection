@@ -27,6 +27,6 @@ pip install opencv-python numpy
 python face_detect.py
 ```
 [face detection output]
-()
+(https://github.com/Azhar0612/face-detection/blob/main/Screenshot%202026-05-31%20023948.png)
 
 https://www.linkedin.com/in/azhar-mohammad69
