@@ -26,4 +26,7 @@ It uses OpenCV and Haar Cascade classifier for face detection.
 pip install opencv-python numpy
 python face_detect.py
 ```
+[face detection output]
+()
+
 https://www.linkedin.com/in/azhar-mohammad69
